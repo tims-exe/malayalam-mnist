@@ -1,0 +1,10 @@
+data/
+rgb_data/
+archive/
+pychache/
+runs/
+/rgb_data.rar
+/handwritten_data
+/output_images
+/aksharam_data
+/symbol_data
